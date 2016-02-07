@@ -1,1 +1,3 @@
-What is a branch?
+
+When you create a branch, you make a copy of your current working project. In this copy you can make changes and try things without damaging the working code. It is also useful when multiple people work on a project, so for example each feature of an app has a different branch, and the teams can make their commits without interfering with each other.
+When one branch is finished, has been tested etc, it will be merged to the master branch.
